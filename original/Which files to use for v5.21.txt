@@ -1,0 +1,17 @@
+Latest files for version 5.21
+Instructions:
+Astroplant Kit v5.21_building instructions
+Parts:
+3D printing (FDM) 
+2 parts, top and bottom:
+v5.21-Housing_powerconverter_rev02-Mirror1.STLv5.21-Housing_powerconverter_rev02-Bo
+
+
+Laser cutting 6mm plywood multiplex birch
+In following formats available:
+
+Laserfiles_v5.21_AI8_6mm multiplex.aiLaserfiles_v5.21_6mm multiplex.svgLaserfiles_v5.21_6mm multiplex.dxf
+
+Astroplant logo:
+
+astroplant logo vector.ai
