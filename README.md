@@ -1,7 +1,7 @@
 # Casing
 
 ## Variants
-There are two casing variants:
+There are three casing variants:
 
 ### `original/`
 All CAD and other designs for the AstroPlant original casing / enclosure / top panel.
