@@ -12,10 +12,10 @@ We have recently involved in the AstroPlant Citizen Science Project. After build
 
 This folder includes files to build the Lite version of Maker Edition:
 
-- Astroplant_v5.21_6mm multiplex_MLE_Laser.dxf         >>> Lasercut CAD drawings
-- Astroplant_v5.21_6mm multiplex_MLE_L20x10x1.5.dxf    >>> Drawings to cut L-shapes
-- MLE_Screws.xlsx                                      >>> BOM
-- AstroPlant costs ME vs MLE.xlsx                      >>> Estimated cost savings
+- Astroplant_v5.21_6mm multiplex_MLE_Laser.dxf >>> Lasercut CAD drawings
+- Astroplant_v5.21_6mm multiplex_MLE_L20x10x1.5.dxf >>> Drawings to cut L-shapes
+- MLE_Screws.xlsx >>> BOM
+- AstroPlant costs ME vs MLE.xlsx >>> Estimated cost savings
 
 ## Details, features and instructions
 
