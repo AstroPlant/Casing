@@ -10,7 +10,7 @@ Main features are:
 
 ## Files in this folder
 
-This folder includes files to build the Lite version of Maker Edition. You should use a 6 mm plywood/multiplex or another material.
+This folder includes files to build the Lite version of Maker Edition. You should use a 6 mm plywood/multiplex or another material with same thinkness.
 
 - Astroplant_v5.21_6mm multiplex_MLE_Laser.dxf >>> Lasercut CAD drawings
 - Astroplant_v5.21_6mm multiplex_MLE_L20x10x1.5.dxf >>> Drawings to cut L-shapes
