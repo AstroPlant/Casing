@@ -1,11 +1,11 @@
 # AstroPlant Maker LITE Edition
 
-We have recently involved in the AstroPlant Citizen Science Project. After building our first “Maker Edition (ME)“ we considered to do some changes in order to save costs of materials to build the kit. This is our first version of new design called "Maker LITE Edition (MLE)".
+We have recently involved in the AstroPlant Citizen Science Project. After building our first "Maker Edition (ME)" we considered to do some changes in order to save costs of materials to build the kit. This is our first version of new design called "Maker LITE Edition (MLE)".
 
 Main features are:
 
 - Smaller size and low-cost version
-- A power supply unit hounsing made in plywood (avoiding 3D printed power-supply unit housing)
+- A power-supply unit hounsing made in plywood (avoiding 3D printed power-supply unit housing)
 - A DIY hydroponic kit using IKEA 365+ containers
 
 ## Files in this folder
