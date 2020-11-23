@@ -1,7 +1,7 @@
 # Casing
 
 ## Variants
-There are two casing variants:
+There are three casing variants:
 
 ### `original/`
 All CAD and other designs for the AstroPlant original casing / enclosure / top panel.
@@ -12,3 +12,7 @@ The other files, developed by Swiss fablab Onlfait, are more suitable for smalle
 All CAD and other designs for the AstroPlant Onlfait casing / enclosure / top panel.
 This casing design can be used with smaller laser cutters (900x600mm).
 
+### `LiteEd/`
+All CAD and other designs for the AstroPlant Lite Edition casing / enclosure / top panel.
+This casing design is a small size versión of original Maker Edition with some other improvements,
+developed by Araiva (Spain) in order to save money.
