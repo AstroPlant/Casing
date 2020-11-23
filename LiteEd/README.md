@@ -1,6 +1,6 @@
 # AstroPlant Maker LITE Edition
 
-We have recently involved in the AstroPlant Citizen Science Project. After building our first “Maker Edition (ME)“ we considered to do some changes in order to save costs of materials to build the kit. New features in our "Maker LITE Edition (MLE)" are:
+We have recently involved in the AstroPlant Citizen Science Project. After building our first “Maker Edition (ME)“ we considered to do some changes in order to save costs of materials to build the kit. This is our first version of new design called "Maker LITE Edition (MLE)" and its main features are:
 
 - New design, smaller size, low-cost
 - A power supply unit hounsing made in plywood (avoiding 3D printed power-supply unit housing)
@@ -10,7 +10,7 @@ We have recently involved in the AstroPlant Citizen Science Project. After build
 
 ## Files in this folder
 
-This folder includes files to build the Lite version of Maker Edition:
+This folder includes files to build the Lite version of Maker Edition. You should use a 6 mm plywood/multiplex or another material.
 
 - Astroplant_v5.21_6mm multiplex_MLE_Laser.dxf >>> Lasercut CAD drawings
 - Astroplant_v5.21_6mm multiplex_MLE_L20x10x1.5.dxf >>> Drawings to cut L-shapes
