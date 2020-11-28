@@ -19,6 +19,6 @@ This folder includes files to build the Lite version of Maker Edition. You shoul
 
 ## Details, features and instructions
 
-Follow the link and find instructions, pictures, etc...including a DIY hydroponic kit
+Follow the link and find instructions, pictures, etc... including a DIY hydroponic kit
 
 https://astroplant.gitbook.io/ap-community-projects/astroplant-maker-lite-edition
