@@ -14,7 +14,7 @@ This folder includes files to build the Lite version of Maker Edition. You shoul
 
 - Astroplant_v5.21_6mm multiplex_MLE_Laser.dxf >>> Lasercut CAD drawings
 - Astroplant_v5.21_6mm multiplex_MLE_L20x10x1.5.dxf >>> Drawings to cut L-shapes
-- MLE_Screws.xlsx >>> BOM
+- MLE_BOM.xlsx >>> Bill of materials including screws and components to build the hydroponic kit
 - AstroPlant costs ME vs MLE.xlsx >>> Estimated cost savings vs Maker Edition
 
 ## Details, features and instructions
